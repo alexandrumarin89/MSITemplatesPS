@@ -28,7 +28,7 @@ There are 3 scenarios:
 1. Create a transform (MST) for a desired MSI. In this case, in the first textbox, select the desired MSI and check the checkbox bellow **Create MST**. After that click **Modify**
 1. Change a transform file. In this case, select your MSI in the first texbox, and select the MSI in the secont textbox. At the end press **Modify**
 
-##Build
+## Build
 
 In the **compiled** directory you can find the MSITemplatePS.exe
 
